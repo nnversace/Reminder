@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Subscription Reminders//NONSGML v1.0//EN
+BEGIN:VEVENT
+SUMMARY:1Password subscription renewal (7-day reminder)
+DESCRIPTION:Your 1Password subscription (₺24.99) renews on 17 August.
+DTSTART:20250810T090000
+DTEND:20250810T093000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1Password subscription renewal (3-day reminder)
+DESCRIPTION:Your 1Password subscription (₺24.99) renews on 17 August.
+DTSTART:20250814T090000
+DTEND:20250814T093000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1Password subscription renewal (1-day reminder)
+DESCRIPTION:Your 1Password subscription (₺24.99) renews on 17 August.
+DTSTART:20250816T090000
+DTEND:20250816T093000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apple Music subscription renewal (7-day reminder)
+DESCRIPTION:Your Apple Music subscription (₺32.99) renews on 28 August.
+DTSTART:20250821T090000
+DTEND:20250821T093000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apple Music subscription renewal (3-day reminder)
+DESCRIPTION:Your Apple Music subscription (₺32.99) renews on 28 August.
+DTSTART:20250825T090000
+DTEND:20250825T093000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apple Music subscription renewal (1-day reminder)
+DESCRIPTION:Your Apple Music subscription (₺32.99) renews on 28 August.
+DTSTART:20250827T090000
+DTEND:20250827T093000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apple Arcade subscription renewal (7-day reminder)
+DESCRIPTION:Your Apple Arcade subscription (₺69.99) renews on 3 September.
+DTSTART:20250827T090000
+DTEND:20250827T093000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apple Arcade subscription renewal (3-day reminder)
+DESCRIPTION:Your Apple Arcade subscription (₺69.99) renews on 3 September.
+DTSTART:20250831T090000
+DTEND:20250831T093000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apple Arcade subscription renewal (1-day reminder)
+DESCRIPTION:Your Apple Arcade subscription (₺69.99) renews on 3 September.
+DTSTART:20250902T090000
+DTEND:20250902T093000
+END:VEVENT
+END:VCALENDAR
